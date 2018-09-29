@@ -1,0 +1,4 @@
+#+TITLE: index
+#+AUTHOR: xfwduke
+
+[[file:why_not_seg_fault.org][为什么不CORE]]
